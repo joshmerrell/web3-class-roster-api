@@ -1,3 +1,5 @@
+@import 'https://api.fontshare.com/v2/css?f[]=kalam@400&f[]=chillax@500&display=swap';
+
 :root {
   --content-width: 50ch;
 }
@@ -77,12 +79,12 @@ img {
 
 .card h2 {
   margin-block-end: 0;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Chillax', sans-serif;
   font-weight: bold;
 }
 
 .cursive {
-  font-family: cursive, sans-serif;
+  font-family: 'Kalam', cursive, sans-serif;
 }
 
 .card button {
