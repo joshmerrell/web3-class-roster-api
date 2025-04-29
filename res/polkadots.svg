@@ -1,0 +1,28 @@
+<svg
+   width="25mm"
+   height="25mm"
+   viewBox="0 0 25 25"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-36.55015,-90.517153)">
+    <circle
+       style="fill:#aaaaaa;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-dasharray:none;paint-order:markers fill stroke;fill-opacity:1"
+       id="path1"
+       cx="41.444"
+       cy="95.411003"
+       r="2.5" />
+    <circle
+       style="fill:#aaaaaa;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-dasharray:none;paint-order:markers fill stroke;fill-opacity:1"
+       id="circle1"
+       cx="53.444"
+       cy="107.411"
+       r="2.5" />
+  </g>
+</svg>
+

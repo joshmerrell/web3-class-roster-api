@@ -10,8 +10,6 @@ fetch(url)
     
     // check-check: is the data good?
     console.log(data);
-    console.log(data.name);
-    console.log(data.imageUrl);
 
     // get container for data
     const roster = document.querySelector(".roster");

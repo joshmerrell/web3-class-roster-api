@@ -92,3 +92,8 @@ img {
   font-size: 1rem;
   text-transform: uppercase;
 }
+
+.card {
+  background-image: url('/res/polkadots.svg');
+  background-blend-mode: difference;
+}
